@@ -1,11 +1,11 @@
-# worm-picker
+# Worm Picker
 A simple app designed for experimental element organization in C. elegans labs. Originally designed for Shroff Lab at NIH/NIBIB
 Optimized for Windows Operating Systems. 
 
 worm-notifications.py will NOT run on a non-Windows system. 
 
 ____________________________________________________________
-# What is a worm-picker?
+## What is a worm-picker?
 
 Worm picker is a simple desktop app built on Python's tkinter module. This app allows the user to keep track of up to thousands of C. elegans experimental strains. Capabilities include: 
 1. Adding strains to your database
@@ -13,9 +13,9 @@ Worm picker is a simple desktop app built on Python's tkinter module. This app a
 3. Determining daily and weekly tasks pertaining to maintenance
 4. Notifying users and their team about daily strains to pick, maintain, or experiment.
 
-# Installation
+## Installation
 
-**Modules**
+###Modules
 
 - os (Pre-installed with python)
 
@@ -39,25 +39,43 @@ Worm picker is a simple desktop app built on Python's tkinter module. This app a
 To install modules: 
 1. Navigate to command line (Powershell/Anaconda Prompt on windows or Terminal on Mac OSX)
 
-2. Type: 'pip install [module name here]'
+2. Run: `pip install [module name here]`
 
 
 
 ____________________________________________________________
-# Usage
+## Usage
 
 To use this package, 
 
 1.	Open the Wormpicker program (wormPickerV2.1.py)
 	
-    a.	Navigate to the local directory and run ‘python wormPickerV2.1.py’
-	
-    b. 	Use the File tab for options such as 'Save', 'Refresh', and 'Exit'
-	
-    c. 	Use the Help tab for options such as 'About' and 'How to' to learn more about the features
-		and usage of wormPicker. 
-	
-2.	To run the notification app (notipick.py) in the background. (Only works on Windows OS)
-    a.	Navigate to the local directory and run ‘pythonw.exe .\worm_notifications.py
+    a.	Navigate to the local directory and run `python wormPickerV2.1.py`
+    
 
-3.	To close the notification app, open task manager, select python, and ‘end task’
+###View Database Strains
+
+!(images/wp_view.PNG)
+
+###Add Database Strains
+
+!(images/wp_add.PNG)
+
+###View your team's to-do list
+
+!(images/wp_todo.PNG)
+
+###Other Notes
+
+####Use the menubar!
+
+!(images/wp_save.PNG)
+
+####Right-click to utilize Excel-style options
+
+!(images/wp_viewopt.PNG)
+	
+	
+
+	
+
