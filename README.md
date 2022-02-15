@@ -17,6 +17,8 @@ Worm picker is a simple desktop app built on Python's tkinter module. This app a
 
 ### Modules
 
+**wormpicker.py:**
+
 - os (Pre-installed with python)
 
 - tkinter (Pre-installed with python)
@@ -30,6 +32,9 @@ Worm picker is a simple desktop app built on Python's tkinter module. This app a
 - pandas (Pre-installed with python) 
 
 - tkcalendar 
+
+
+**worm-notifications**
 
 - pause
 
@@ -51,6 +56,9 @@ To use this package,
 1.	Open the Wormpicker program (wormPickerV2.1.py)
 	
     a.	Navigate to the local directory and run `python wormPickerV2.1.py`
+    
+2.	To use the notification app,
+    a.	`pythonw.exe .\worm-notifications.py`
     
 
 ### View Database Strains
