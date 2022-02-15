@@ -15,7 +15,7 @@ Worm picker is a simple desktop app built on Python's tkinter module. This app a
 
 ## Installation
 
-###Modules
+### Modules
 
 - os (Pre-installed with python)
 
@@ -53,27 +53,27 @@ To use this package,
     a.	Navigate to the local directory and run `python wormPickerV2.1.py`
     
 
-###View Database Strains
+### View Database Strains
 
-!(images/wp_view.PNG)
+![View your database](images/wp_view.PNG)
 
-###Add Database Strains
+### Add Database Strains
 
-!(images/wp_add.PNG)
+![Add strains to your database](images/wp_add.PNG)
 
-###View your team's to-do list
+### View your team's to-do list
 
-!(images/wp_todo.PNG)
+![view the to-do list](images/wp_todo.PNG)
 
-###Other Notes
+### Other Notes
 
-####Use the menubar!
+#### Use the menubar!
 
-!(images/wp_save.PNG)
+![Save images](images/wp_save.PNG)
 
-####Right-click to utilize Excel-style options
+#### Right-click to utilize Excel-style options
 
-!(images/wp_viewopt.PNG)
+![Use right click in view window](images/wp_viewopt.PNG)
 	
 	
 
