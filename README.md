@@ -7,7 +7,7 @@ worm-notifications.py will NOT run on a non-Windows system.
 ____________________________________________________________
 ## What is a worm-picker?
 
-Worm picker is a simple desktop app built on Python's tkinter module. This app allows the user to keep track of up to thousands of C. elegans experimental strains. Capabilities include: 
+Worm picker is a simple desktop app built on Python's tkinter module. This app allows the user to keep track of thousands of C. elegans experimental strains. Capabilities include: 
 1. Adding strains to your database
 2. Viewing acute status and information on current strains
 3. Determining daily and weekly tasks pertaining to maintenance
